@@ -1,0 +1,26 @@
+INSTRUKCJA: Automatyczna konfiguracja komputera (ZDI24)
+To narzędzie automatycznie przygotuje Twój komputer do pracy. Zainstaluje niezbędne programy (Chrome, Firefox, 7-Zip, KeePass, Office) oraz pobierze aktualizacje systemowe.
+
+Krok 1: Wybierz wersję
+W folderze głównym znajdziesz dwa warianty. Wybierz ten, którego potrzebujesz:
+
+Wersja 1.0 (Szybka): Instaluje nowe programy i aktualizuje tylko te, które sama wgrała.
+Wersja 2.0 (Pełna): Instaluje nowe programy i dodatkowo aktualizuje wszystko, co już masz na komputerze.
+
+Krok 2: Uruchomienie
+Skopiuj folder ZDI24_PC_Setup na pulpit komputera, który chcesz skonfigurować.
+
+Otwórz wybrany folder (Wersja 1.0 lub Wersja 2.0).
+
+Kliknij dwukrotnie lewym przyciskiem myszy na ikonę startową (plik z końcówką .exe)
+Jeśli pojawi się niebieskie okno lub pytanie o uprawnienia – kliknij "Tak" lub "Uruchom mimo to".
+
+Krok 3: Czekaj na koniec
+Program otworzy czarne okno (PowerShell), w którym będą pojawiać się komunikaty o postępie. Nic nie zamykaj!
+
+Konfiguracja jest zakończona, gdy zobaczysz napis:
+"--- WSZYSTKIE ZADANIA ZAKOŃCZONE ---".
+Możesz wtedy zamknąć okno i zacząć korzystać z komputera.
+
+
+Ważne: Nie usuwaj folderu "Script" ani nie zmieniaj nazw plików – są one niezbędne do poprawnego działania instalatora.
