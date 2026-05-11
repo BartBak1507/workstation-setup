@@ -53,4 +53,4 @@ Struktura została zaprojektowana tak, aby oddzielić kod źródłowy od plików
 👨‍💻 Autor
 Bartosz Bąk
 
-GitHub: https://github.com/BartBak150
+GitHub: [https://github.com/BartBak1507](https://github.com/BartBak1507)
